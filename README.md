@@ -1,1 +1,1 @@
-# background-deleter
+# background-delete
